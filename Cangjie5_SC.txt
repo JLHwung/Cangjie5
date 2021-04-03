@@ -71246,7 +71246,6 @@
 𢱮	qpht
 扚	qpi
 抅	qpi
-𢯡	qpib
 抣	qpim
 𢪟	qpj
 𢰄	qpjj
@@ -72058,6 +72057,7 @@
 𢶿	qyhu
 挔	qyhv
 𢴠	qyia
+𢯡	qyib
 𢮕	qyid
 摔	qyij
 𢬵	qyit
