@@ -30575,7 +30575,6 @@
 牥	hqyhs
 𤚊	hqyid
 𤚵	hqyir
-𤛅	hqyiw
 㸯	hqyj
 𬕩	hqyj
 𤙾	hqyjj
@@ -30600,6 +30599,7 @@
 𰠸	hqytr
 牤	hqyv
 𤛜	hqyvn
+𤛅	hqyvw
 𢷆	hqywm
 𤜄	hqywv
 𬔭	hr
