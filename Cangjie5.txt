@@ -88645,6 +88645,7 @@
 𰎸	utgr	[u]
 𡾞	utgs
 𭗡	utgt
+𡻘	utgt
 𡻹	uthj
 𡾲	uthj
 嵯	uthm
