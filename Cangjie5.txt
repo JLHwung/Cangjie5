@@ -23795,7 +23795,6 @@
 㿥	haobg
 𤽼	haog
 𨿹	haog
-𪽽	haog
 𫘂	haogd
 𭽖	haoho	[u]
 𬳦	haoic
@@ -23809,6 +23808,7 @@
 敀	haok
 𢽹	haok
 𬐇	haok
+𪽽	haom
 𫗽	haomg
 皊	haoml
 𩡁	haoml
