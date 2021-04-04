@@ -76794,6 +76794,7 @@
 𠴬	ryid
 𠾍	ryid
 𡂪	ryif
+𠻜	ryij
 𡂭	ryio
 𭊹	ryio
 𪡁	ryiu
@@ -77006,7 +77007,6 @@
 𡄡	ryxf
 𠯴	ryy
 𡂓	ryyb
-𠻜	ryyj
 𨞰	rzhpu
 𨛜	rzrau
 𨞠	rztcu
