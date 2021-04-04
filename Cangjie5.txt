@@ -44747,7 +44747,6 @@
 𬡱	lhla
 𠛔	lhln
 𧘷	lhlo
-𧙆	lhlo
 𧜑	lhmb
 𧜬	lhmf
 𧘻	lhml
@@ -44796,6 +44795,7 @@
 𧚃	lhvf
 袛	lhvi
 𫌃	lhvo
+𧙆	lhvo
 𡲡	lhvom
 衹	lhvp
 裨	lhwj
