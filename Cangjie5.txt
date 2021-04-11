@@ -45032,11 +45032,11 @@
 䖼	ligil
 蜐	ligis
 䗘	ligit
-𧑅	ligiv
 𧋒	liglc
 𫋤	ligni
 𫋦	ligoe
 𧐻	ligog
+𧑅	ligov
 𧒗	ligow
 𧋺	ligp
 蛣	ligr
