@@ -53398,7 +53398,7 @@
 䃏	mrahm
 𭄓	mrahn
 𰦸	mraj
-𥘀	mrajv
+𥘀	mrajv	[U]
 𥑲	mram
 碭	mramh
 碍	mrami
@@ -53424,6 +53424,7 @@
 硍	mrav
 礘	mravf
 𥖉	mrayf
+𥘀	mrayv
 䑚	mrb
 硼	mrbb
 磆	mrbbb
