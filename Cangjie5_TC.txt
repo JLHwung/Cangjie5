@@ -4121,7 +4121,6 @@
 𰚅	bjhne
 𦝣	bjhr
 𣍥	bjhu
-𫆘	bji
 膞	bjii
 𦢙	bjim
 𫆵	bjip
@@ -7095,6 +7094,7 @@
 𮍁	bywv
 𰯨	bywv
 臍	byx
+𫆘	byy
 𪚘	byybp
 金	c
 鈤	ca
