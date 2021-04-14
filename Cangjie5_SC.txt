@@ -29495,6 +29495,7 @@
 征	homym
 𤓱	hon
 𢒼	hon
+𪫐	honai
 𨙧	honbf
 䚘	honbn
 𧗴	honbn
@@ -29532,7 +29533,6 @@
 𮅿	honq
 𢖞	honri
 𧗻	honsn
-𪫐	honui
 𪫔	honwk
 𥬈	hoo
 復	hooae
