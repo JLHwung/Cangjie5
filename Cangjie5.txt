@@ -52957,7 +52957,6 @@
 𣨌	mnymr
 𧦬	mnymr
 䶛	mnymu
-𪵂	mnymu
 㱻	mnynq
 㱜	mnyo
 𤴕	mnyo
@@ -52981,6 +52980,7 @@
 𰚁	mnytj
 殕	mnytr
 𣩜	mnytu
+𪵂	mnyuk
 𣩹	mnywv
 仄	mo
 乀	mo
