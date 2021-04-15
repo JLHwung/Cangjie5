@@ -52431,7 +52431,7 @@
 𪼿	mnbcv
 𣨅	mnbdi
 𣧶	mnbe
-𣧢	mnbf
+𣧢	mnbf	[u]
 𣨮	mnbhg
 𣨿	mnbjj
 殂	mnbm
@@ -52728,6 +52728,7 @@
 𣨍	mnnbg
 歿	mnne
 殛	mnnem
+𣧢	mnnf
 𣧊	mnng
 𣧉	mnnhe
 𭺢	mnnib
@@ -52762,6 +52763,7 @@
 𤬲	mnob
 𣧻	mnobo
 𣧠	mnof
+𣧢	mnof	
 𣨫	mnog
 𨾸	mnog
 㱷	mnogd
