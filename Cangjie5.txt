@@ -41467,6 +41467,7 @@
 獆	khhaj
 𭸎	khhap
 㹸	khhau
+𤣌	khhbd
 猘	khhbn
 𤝼	khhbu
 𪺻	khhbv
@@ -41543,7 +41544,6 @@
 猈	khhwj
 𤠞	khhwp
 㺞	khhxc
-𤣌	khhxd
 獀	khhxe
 𤟚	khhxe
 獡	khhxf
