@@ -83541,6 +83541,7 @@
 䩰	tjrsj
 𰱁	tjru
 躠	tjryo
+𫖋	tjsce
 𦸤	tjse
 𩍧	tjseo
 𩍞	tjseu
@@ -83567,7 +83568,6 @@
 䩻	tjsqf
 䩽	tjsrr
 𩉸	tjss
-𫖋	tjste
 𮧥	tjstv
 𩋎	tjsuu
 𬜦	tjt
