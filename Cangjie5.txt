@@ -20671,7 +20671,6 @@
 𡓠	gcta
 𫎯	gcta
 𧹱	gctmv
-𧹴	gctvw
 丧	gcv
 𫎰	gcvfw
 𤱒	gcw
@@ -20689,6 +20688,7 @@
 赬	gcybc
 赪	gcybo
 𧹹	gcyia
+𧹴	gcyvw
 𣏅	gd
 𡉿	gd
 𬤵	gdcor
