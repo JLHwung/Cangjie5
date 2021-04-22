@@ -53796,6 +53796,8 @@
 𥖝	mrihc
 磩	mrihf
 𰦺	mrihi
+𥓵	mrihi
+𥓵	mrihm
 碱	mrihr
 𦧩	mrihr
 𥓉	mrihs
@@ -53835,7 +53837,6 @@
 𡃭	mrior
 㢦	mrip
 𢎄	mrip
-𥓵	mripm
 𥒎	mriq
 𪿘	mrir
 𮀕	mrir
