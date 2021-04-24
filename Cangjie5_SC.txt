@@ -23880,6 +23880,7 @@
 𮆷	hatf
 𪾅	hatgs
 𩡤	hatgt
+𩡚	hatgt
 𤾸	hatif
 𤽒	hatj
 𤽝	hatj
@@ -23892,7 +23893,7 @@
 𤾴	hatoq
 𤾼	hatos
 𭽗	hatq
-𩡚	hatqy
+𩡚	hatqt	[U]
 𣋯	hatsu
 皏	hatt
 𤽧	hatt
