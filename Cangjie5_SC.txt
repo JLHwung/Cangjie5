@@ -68215,7 +68215,6 @@
 㣼	pshh
 𭜴	pshh
 㣼	pshi
-𫺬	pshj
 怊	pshr
 悗	pshu
 惂	pshx
@@ -68280,6 +68279,7 @@
 𢝎	psug
 𢚲	psuk
 𢚁	psup
+𫺬	psyj
 世	pt
 𠀍	pt
 惜	pta
