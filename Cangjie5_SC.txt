@@ -61434,6 +61434,7 @@
 傔	ocmc	[u]
 僔	ocmi
 𠈝	ocmm
+𬾷	ocmo
 𠆵	ocms
 𥂝	ocmt
 𪝞	ocmt	[u]
@@ -65940,7 +65941,6 @@
 𠌾	othi
 傞	othm
 𠍆	othn
-𬾷	otho
 𬿜	othu
 儰	otif
 𫢭	otis
@@ -65997,6 +65997,7 @@
 僷	otpd
 𫣟	otpd
 𠑛	otpk
+𬾷	otpo
 佯	otq
 𦍐	otq
 𠎐	otqb
