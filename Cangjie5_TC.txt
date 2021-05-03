@@ -79631,6 +79631,7 @@
 𫺕	slp
 𭝤	slp
 𦣥	slph
+𫇅	slphh
 賾	slqmc
 𦣱	slqmc
 赜	slqmo
@@ -80415,7 +80416,6 @@
 𢑠	ssopd
 𰑋	ssp
 𰑷	ssp	[u]
-𫇅	ssphh
 𢀥	ssqjl
 局	ssr
 𠭵	ssre
