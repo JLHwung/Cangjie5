@@ -27048,6 +27048,7 @@
 𮆠	hiifg
 篸	hiih
 爫	hiih
+𩴁	hiihr
 𩴑	hiiih
 𩳐	hiijb
 𩳞	hiije
@@ -27187,7 +27188,6 @@
 𮔺	hioge
 𩴧	hiogf
 𩳇	hiohe
-𩴁	hiohr
 𮅟	hioi
 𩲩	hioii
 𥴃	hioj
