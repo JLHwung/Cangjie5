@@ -15724,7 +15724,6 @@
 𣹝	enlb
 𣿂	enlb
 𣿃	enlb
-𪶾	enlb
 𰛺	enlb
 濻	enlc
 滁	enld
@@ -15743,6 +15742,7 @@
 𭰤	enls
 𭲏	enlu
 𣽻	enlv
+𪶾	enlv
 𣼼	enlw
 瀰	enmb
 渌	enme
