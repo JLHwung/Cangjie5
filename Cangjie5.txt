@@ -14203,7 +14203,6 @@
 𱧑	ebcf
 瀃	ebch
 𣺠	ebch
-𣽷	ebch
 𭳴	ebch
 濺	ebci
 浫	ebcj
@@ -14315,6 +14314,7 @@
 𪶴	eboa
 𣿀	eboe
 漈	ebof
+𣽷	eboh
 溅	eboj
 测	ebon
 𪬬	ebop
@@ -114185,7 +114185,6 @@
 𰜁	xxeap
 𱨂	xxeav
 𠕒	xxeb
-𣽷	xxebc
 𪸊	xxebd
 𤁞	xxebe
 𭏺	xxebg
