@@ -76505,6 +76505,7 @@
 𫬤	rbic
 𤟶	rbik
 𠶇	rbine
+𭟶	rbip
 𠦣	rbj
 喗	rbjj
 𫩚	rbk
@@ -94236,7 +94237,6 @@
 嫍	vbhx
 𢧠	vbi
 𤟒	vbik
-𭟶	vbip
 𰌎	vbir
 媈	vbjj
 㜣	vbkf
