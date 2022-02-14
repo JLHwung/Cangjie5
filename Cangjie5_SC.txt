@@ -36603,7 +36603,6 @@
 𢋝	ihid
 𢧓	ihihs
 𢇫	ihio
-𢈅	ihio
 𫷨	ihjd
 螷	ihji
 蠯	ihji
@@ -36695,6 +36694,7 @@
 廆	ihui
 𢋛	ihul
 底	ihvi
+𢈅	ihvo
 㡳	ihvp
 𪭎	ihw
 𢈣	ihwe
@@ -105473,7 +105473,6 @@
 𢊼	xihhc
 毿	xihhq
 庅	xihi
-𢈅	xihio
 蠯	xihji
 𪠟	xihlb
 𱐠	xihln
@@ -105487,6 +105486,7 @@
 𢘱	xihp
 𢇼	xihpu
 庐	xihs
+𢈅	xihvo
 𭆡	xihwj
 𢌉	xihxe
 𭙩	xihye
