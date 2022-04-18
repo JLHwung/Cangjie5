@@ -78188,7 +78188,6 @@
 䠀	rmfbr
 𨆉	rmfbw
 𡅪	rmfc
-𫫗	rmfc
 蹐	rmfcb
 𮜛	rmfcc
 𨀷	rmfd
@@ -78230,6 +78229,7 @@
 𠲥	rmfu	[u]
 𠺷	rmfu
 𫩵	rmfu
+𫫗	rmfu
 呈	rmg
 㕵	rmg
 𮛄	rmg
