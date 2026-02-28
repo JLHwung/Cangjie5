@@ -5706,6 +5706,7 @@
 𢝯	brp
 𦝮	brpa
 𫛲	brpym
+𦛗	brr	[G]
 𰯄	brrb
 臊	brrd
 𦢷	brrf
