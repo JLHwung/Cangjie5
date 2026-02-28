@@ -104315,6 +104315,7 @@
 𭻐	wnsd
 𪽈	wnsh
 𱜂	wnue
+𦋦	wnuu
 𲘭	wnwa
 𪽟	wnwf
 𭍯	wnwf
@@ -104536,7 +104537,6 @@
 𳊖	wsqmb
 𭻤	wssql
 𰣌	wstk
-𦋦	wsuu
 𡣠	wsv
 嬲	wsvws
 𤲶	wswks
