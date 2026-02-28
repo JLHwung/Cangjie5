@@ -127902,6 +127902,7 @@
 䜑	yrmmp
 語	yrmmr
 𧩂	yrmms
+𧥦	yrmms	[JP]
 䛃	yrmmu
 𧩗	yrmmu
 誫	yrmmv
