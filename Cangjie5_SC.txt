@@ -35421,7 +35421,7 @@
 䶉	hvhhw
 𠂑	hvhi
 𳑠	hvhje
-䶉	hvhlw
+䶉	hvhlw	[JT]
 𭂪	hvhn
 𪕂	hvhne
 𩗯	hvhni
