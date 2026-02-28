@@ -50226,6 +50226,7 @@
 蛎	limms
 𧊌	limms
 𮓺	limms
+𧈯	limms	[G]
 蚖	limmu
 蜄	limmv
 虰	limn
