@@ -4,6 +4,7 @@
 [U] Unicode 舊版本字形，日後可能從碼表刪除
 [v] Unicode IVD 未收錄字形
 [V] Unicode IVD 收錄字形
+[G] Unicode Code Charts G源字形
 [!] 部分字符集或字體的字形可能有誤，請閱讀說明#字形問題。
 （注意：並未完整標註）
 ------------------------------------
@@ -42449,7 +42450,7 @@
 𠦉	jhml
 䪣	jhmom	[u]
 𡧻	jhmr
-宂	jhn	[u]
+宂	jhn	[G]
 𭅠	jhn
 𡧔	jhne
 𡦿	jhnm
