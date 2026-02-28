@@ -6,6 +6,7 @@
 [V] Unicode IVD 收錄字形
 [G] Unicode Code Charts G源字形
 [J] Unicode Code Charts J源字形
+[P] Unicode Code Charts KP源字形
 [T] Unicode Code Charts T源字形
 [!] 部分字符集或字體的字形可能有誤，請閱讀說明#字形問題。
 （注意：並未完整標註）
@@ -92134,6 +92135,7 @@
 靬	tjmj
 𩍉	tjmjk
 𰲓	tjmjs
+𩉞	tjmjs	[P]
 蔲	tjmk
 𩋅	tjmkp
 䩫	tjmlb
