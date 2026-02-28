@@ -5,6 +5,7 @@
 [v] Unicode IVD 未收錄字形
 [V] Unicode IVD 收錄字形
 [G] Unicode Code Charts G源字形
+[J] Unicode Code Charts J源字形
 [!] 部分字符集或字體的字形可能有誤，請閱讀說明#字形問題。
 （注意：並未完整標註）
 ------------------------------------
@@ -68551,7 +68552,7 @@
 傔	ohhc
 㐱	ohhh
 𠇩	ohhl
-𠐉	ohhl	[uV]
+𠐉	ohhl	[JV]
 乑	ohho
 𠌃	ohhw
 仫	ohi
@@ -113703,7 +113704,7 @@
 𰂵	xohfp
 𬿿	xohgf
 𠑥	xohgi
-𠐉	xohhl	[uV]
+𠐉	xohhl	[JV]
 𰂓	xohjp
 舍	xohjr
 𲐱	xohju
