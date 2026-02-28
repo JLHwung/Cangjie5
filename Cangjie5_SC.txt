@@ -59388,7 +59388,7 @@
 𰧬	mrhkb
 硚	mrhkl
 舔	mrhkp	[u]
-𮀙	mrhkr
+𮀙	mrhkr	[u]
 厛	mrhl
 𮵖	mrhlb
 礩	mrhlc
@@ -59842,6 +59842,7 @@
 硎	mrmkn
 舔	mrmkp
 𰈟	mrmkr
+𮀙	mrmkr
 𬒩	mrmks
 𰦦	mrmks
 硬	mrmlk
