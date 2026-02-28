@@ -69130,7 +69130,6 @@
 𩛷	oimfr
 飪	oimg
 𩚽	oimgi
-𮩎	oimhk
 䬹	oimig
 飦	oimj
 䭛	oimjk
@@ -72648,8 +72647,9 @@
 㑌	osmg
 㒛	osmg
 㺱	osmgi
+𮩎	osmgk
+𮩎	osmgk
 僇	osmh
-𮩎	osmhk
 𠎅	osmi
 𰂃	osmi
 䬹	osmig
