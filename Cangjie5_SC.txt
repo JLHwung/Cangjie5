@@ -95504,6 +95504,7 @@
 𡟿	tvmdm
 莊	tvmg
 𮶳	tvmg
+𬜺	tvmg	[u]
 𰱍	tvmh
 药	tvmi
 薅	tvmi
@@ -95513,6 +95514,7 @@
 𦲚	tvmk
 𮎿	tvmk
 荭	tvmm
+𬜺	tvmm
 𦲼	tvmr
 蕴	tvmt
 莼	tvmu
@@ -95536,7 +95538,6 @@
 𲚸	tvnin
 𨜰	tvnl
 𨞛	tvnl
-𬜺	tvnm
 𦱝	tvnn
 𦴟	tvnn
 歁	tvno
