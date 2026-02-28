@@ -31336,6 +31336,7 @@
 𱃅	hnbb
 𩖩	hnbe
 䇶	hnbg
+𥶴	hnbg
 𩗪	hnbgr
 䈸	hnbj
 𩗃	hnbm
@@ -31603,7 +31604,6 @@
 𲋑	hnle
 𥭫	hnlf
 𥲎	hnlg
-𥶴	hnlg
 第	hnlh
 𥳜	hnlh
 𫂫	hnli
@@ -109432,6 +109432,7 @@
 冖	xhn
 𣇘	xhna
 𮸻	xhnap
+𥶴	xhnbg
 飓	xhnbm
 䇶	xhnbq
 𩗗	xhnbu
@@ -109468,7 +109469,6 @@
 𢂨	xhnlb
 𥱥	xhnld
 𲋑	xhnle
-𥶴	xhnlg
 𥳜	xhnlh
 𱸌	xhnli
 𩘺	xhnlm
