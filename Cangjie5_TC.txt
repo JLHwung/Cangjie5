@@ -5151,6 +5151,7 @@
 𰠆	bnib
 𦚂	bnie
 𤔍	bnif
+𦛧	bnif	[G]
 𦚲	bnig
 𤔃	bnih
 膙	bnii
