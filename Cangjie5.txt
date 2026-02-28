@@ -96424,6 +96424,7 @@
 𮱰	uddo
 𡽠	udec
 𭗣	udec
+𡼹	udge
 𲝳	udgg
 岥	udhe
 𲝐	udhe
@@ -96661,7 +96662,6 @@
 𰎞	uhbv
 𡼇	uhce
 𠚉	uhd
-𡼹	uhde
 𡺘	uhdf
 𡽯	uhdg
 𭗪	uhdi
