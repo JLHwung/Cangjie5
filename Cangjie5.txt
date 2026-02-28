@@ -59409,7 +59409,7 @@
 礩	mrhlc
 𲳩	mrhlo
 𰧤	mrhlq
-磂	mrhlw
+磂	mrhlw	[J]
 斫	mrhml
 㪼	mrhml
 𥒖	mrhmr
