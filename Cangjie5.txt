@@ -21354,6 +21354,7 @@
 焐	fmmr
 𤇃	fmms
 𤇤	fmms
+𤆏	fmms	[G]
 𪸑	fmmu
 灯	fmn
 𤍅	fmnf
