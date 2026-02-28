@@ -122860,6 +122860,7 @@
 歩	xylmh
 遗	xylmo
 𣦋	xylmu
+𣥏	xylmv
 𮞌	xyln
 𪬴	xylp
 𡣎	xylv
@@ -122888,7 +122889,6 @@
 𣂸	xymhm
 𲬆	xymhn
 𣥡	xymhq
-𣥏	xymhv
 𭟼	xymi
 𠦀	xymj
 𲥧	xymkb
@@ -125836,6 +125836,7 @@
 𣦋	ylmu
 𨓢	ylmu
 𨘠	ylmv
+𣥏	ylmv	[O]
 𭺦	ylmvn
 𨓿	ylmy
 𠚩	yln
@@ -126028,7 +126029,6 @@
 㱗	ymhuk
 𪖸	ymhul
 衺	ymhv
-𣥏	ymhv
 𲰘	ymhvo
 𤌺	ymhyf
 𣦃	ymhyh
