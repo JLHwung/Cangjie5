@@ -32272,6 +32272,7 @@
 徧	hohsb
 𤬊	hohsb
 𤓶	hohse
+𢔾	hohse
 徼	hohsk
 𱝲	hohsk	[u]
 𩲫	hohui
@@ -32289,7 +32290,6 @@
 𡓓	hohxg
 𦦚	hohxo
 𨙞	hohxu
-𢔾	hohye
 𢔃	hohye
 筏	hoi
 𰢝	hoiav
