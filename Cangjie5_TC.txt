@@ -8149,7 +8149,6 @@
 𨧶	cgii
 𳆸	cgir
 𨦲	cgis
-𨪠	cgis
 鎑	cgit
 䤲	cglc
 𫒨	cgll
@@ -8671,6 +8670,7 @@
 鏸	cjip
 𨭓	cjir
 𮢜	cjir
+𨪠	cjis
 鐡	cjit
 𮣉	cjjc
 𳇐	cjji
@@ -105861,7 +105861,6 @@
 𬫒	xcfq
 𡉀	xcg
 𫒕	xcgg
-𨪠	xcgis
 𨮾	xcgni
 㒶	xcha
 𮢡	xchaa
@@ -105948,6 +105947,7 @@
 𫓆	xcjii
 𨰕	xcjim
 𮢜	xcjir
+𨪠	xcjis
 𨯪	xcjjm
 𨮩	xcjkr
 鏔	xcjmc
