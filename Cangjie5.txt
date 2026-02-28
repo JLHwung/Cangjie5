@@ -15919,7 +15919,7 @@
 𲫄	ehst
 滬	ehsu
 漑	ehsu
-𣲣	ehsu
+𣲣	ehsu	[U]
 淊	ehsx
 𲨼	eht
 𤄑	ehte
@@ -17029,6 +17029,7 @@
 𣵠	emso
 𰝝	emst
 滬	emsu
+𣲣	emsu
 汧	emt
 濿	emtb
 𤃌	emtc
