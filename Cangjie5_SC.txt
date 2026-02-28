@@ -45139,7 +45139,8 @@
 刹	kcln
 𠟒	kcln
 𠮁	kclne
-𡘤	kclwv
+𡘤	kclwu
+𡘤	kclwv	[T]
 㾾	kcmc
 𮠡	kcmcw
 𢆎	kcmj
@@ -47061,7 +47062,7 @@
 𲱔	klwl
 𤵺	klwp
 奄	klwu
-奄	klwv
+奄	klwv	[T]
 𤶉	klwy
 㾅	klxh
 𡙆	klxl
