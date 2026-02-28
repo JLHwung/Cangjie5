@@ -130438,9 +130438,10 @@
 邏	ywlg
 𨗴	ywlg
 逻	ywln
+𨔍	ywln
 𨖙	ywlo
 𨗫	ywlp
-𨔍	ywls
+𨔍	ywls	[U]
 𲅦	ywlt
 還	ywlv
 褱	ywlv
