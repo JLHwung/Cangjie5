@@ -8315,7 +8315,7 @@
 釽	chlo
 鍁	chlo
 𨬾	chlq
-鎦	chlw
+鎦	chlw	[JP]
 𳆱	chlw
 𳇡	chmb
 頒	chmbc
