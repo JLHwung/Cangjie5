@@ -6,6 +6,7 @@
 [V] Unicode IVD 收錄字形
 [G] Unicode Code Charts G源字形
 [J] Unicode Code Charts J源字形
+[T] Unicode Code Charts T源字形
 [!] 部分字符集或字體的字形可能有誤，請閱讀說明#字形問題。
 （注意：並未完整標註）
 ------------------------------------
@@ -6653,7 +6654,7 @@
 𥈖	buktq
 𦎝	buktq
 䁮	bukua	[Ou]
-𥆦	bukug
+𥆦	bukug	[T]
 䋰	bukvf
 𥄡	bul
 𥆩	bulau
@@ -6785,6 +6786,7 @@
 𥃺	bumu
 𥄝	bumu
 䁮	bumua
+𥆦	bumug
 𧠖	bumvh
 𥄆	bumvi
 𧢁	bumvi
