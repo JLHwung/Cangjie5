@@ -42435,6 +42435,7 @@
 𬔌	jhhj
 𪧤	jhhk
 𮄐	jhhkr
+𡧙	jhhl
 𣰘	jhhqu
 𠀽	jhike
 䪣	jhiom
@@ -42445,7 +42446,6 @@
 𫴟	jhks
 㝢	jhlb
 𡨘	jhli
-𡧙	jhll
 𭄖	jhln
 𡦾	jhlo
 𡦾	jhlv	[U]
