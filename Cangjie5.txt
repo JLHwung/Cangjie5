@@ -16755,7 +16755,6 @@
 𣸼	emaf
 𱧊	emaf
 𰝜	emak
-𣽀	emal
 洹	emam
 𲪘	emar
 濡	embb
@@ -17052,6 +17051,7 @@
 𣾤	emuf
 𣸀	emui
 𣼸	emui
+𣽀	emul
 𬈊	emur
 𣶩	emuw
 𱥾	emva
