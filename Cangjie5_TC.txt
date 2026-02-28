@@ -17047,7 +17047,6 @@
 𤂯	emuc
 涵	emue
 𭱣	emue
-𲫯	emue	[u]
 𣾤	emuf
 𣸀	emui
 𣼸	emui
@@ -18446,7 +18445,6 @@
 涵	eune
 㴠	eune
 𣵵	eune
-𲫯	eune
 𰛦	euni
 溦	eunk
 𭱾	eunk
@@ -21379,6 +21377,7 @@
 𱪤	fmu
 熸	fmua
 𤌤	fmue
+𲫯	fmue	[u]
 𤆹	fmvh
 𤍇	fmvi
 𮭋	fmvif
@@ -22173,6 +22172,7 @@
 㼳	fumvn
 𲰠	fumvn
 𬉽	fun
+𲫯	fune
 𦥿	funhx
 𨜜	funl
 𪞀	funl
@@ -119562,7 +119562,6 @@
 𱧱	xxemn
 𤃶	xxemr
 𲹕	xxems
-𲫯	xxemu	[u]
 𤃁	xxemv
 𣻔	xxemw
 𱦉	xxemy
@@ -119701,6 +119700,7 @@
 𰝷	xxfm
 𤑣	xxfmb
 𭴰	xxfmf
+𲫯	xxfmu	[u]
 𰟜	xxfmw
 𮱡	xxfnd
 𪅒	xxfnh
