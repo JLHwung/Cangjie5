@@ -2829,6 +2829,7 @@
 𱅳	bbmmp
 𩩑	bbmmr
 𩨗	bbmms
+𤔧	bbmms	[G]
 䯈	bbmmu
 𠹬	bbmmu
 𩨑	bbmn
