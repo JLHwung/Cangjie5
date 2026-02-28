@@ -87486,7 +87486,6 @@
 𦕘	sjbq
 䎻	sjbqr
 𦖉	sjbtv
-𦖹	sjbuf
 𮋴	sjbun
 𦖃	sjbuu
 𦕃	sjby
@@ -87755,6 +87754,7 @@
 聧	sjnok
 𦕔	sjns
 𬚕	sjnsd
+𦖹	sjnuf
 𦖄	sjnus
 𦗎	sjnuw
 𩼢	sjnwf
