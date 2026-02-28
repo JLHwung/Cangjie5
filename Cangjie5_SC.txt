@@ -46139,6 +46139,7 @@
 𲯘	khnnb
 猕	khnnf
 𤝆	khno
+𤻊	khno
 𤟠	khnob
 𲮽	khnoe
 猤	khnok
@@ -46487,7 +46488,6 @@
 𤞃	khuni
 𭸂	khuni
 𱮨	khunk
-𤻊	khuo
 𤣑	khuob
 獕	khuog
 瘪	khup
