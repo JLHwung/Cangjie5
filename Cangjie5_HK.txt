@@ -15827,6 +15827,7 @@
 𭰆	ehnm
 洬	ehnn
 𣶘	ehnn
+𬉏	ehno
 𪷘	ehnq
 沿	ehnr
 𲨴	ehns
@@ -15951,7 +15952,6 @@
 𣽍	ehuo
 𣾄	ehuo
 𪷽	ehuo
-𬉏	ehuo
 㴧	ehup
 𬈞	ehup
 𤀗	ehur
