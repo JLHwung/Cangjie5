@@ -98308,7 +98308,6 @@
 𡻽	uwgv
 𡸙	uwhd
 𡹤	uwhd
-𡺥	uwib
 崮	uwjr
 崓	uwjr
 𡹍	uwjr
@@ -98317,6 +98316,7 @@
 岬	uwl
 𱛖	uwl
 嵎	uwlb
+𡺥	uwlb
 𡿇	uwlg
 𡿏	uwlg
 嶧	uwlj
