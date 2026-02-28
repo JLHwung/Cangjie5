@@ -73824,6 +73824,7 @@
 𭟨	pbgn
 惆	pbgr
 𢠿	pbhf
+𢗑	pbhn	[G]
 𢗑	pbhu
 𮲁	pbhu
 𢢽	pbhv
