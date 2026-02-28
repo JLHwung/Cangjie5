@@ -91242,6 +91242,7 @@
 𧀷	thhi
 茆	thhl
 𦺄	thhl
+𦮦	thhl
 𦺙	thhq
 𧅏	thht
 𮎬	thhv
@@ -91275,7 +91276,6 @@
 萭	thlb
 蘌	thlf
 𫟏	thli
-𦮦	thll
 𲼏	thll
 𦬔	thlo
 𦲽	thlo
