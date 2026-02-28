@@ -11931,7 +11931,6 @@
 𣞡	dhye
 樦	dhyg
 𬃢	dhyi
-𣖅	dhyj
 𣠑	dhyj
 𱤩	dhyj
 榹	dhyn
@@ -12867,6 +12866,7 @@
 𪱱	dmy
 𭩙	dmy
 㯊	dmyf
+𣖅	dmyj
 柾	dmym
 𣒽	dmyp
 杛	dn
