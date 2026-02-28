@@ -104294,6 +104294,7 @@
 𮬽	wnhaf
 㽥	wnhd
 𰣑	wnhf
+𬎷	wnhqm
 𣱍	wnhvp
 𡇮	wnib
 𡆹	wnin
@@ -104560,7 +104561,6 @@
 𪽦	wtgs
 𡈮	wtgt
 㽨	wthm
-𬎷	wthqm
 𣯎	wthqu
 𡇏	wths
 𬏋	wthv
