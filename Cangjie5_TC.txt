@@ -80306,6 +80306,7 @@
 𭋶	rdlv
 𠻇	rdlwp
 呠	rdm
+𫪲	rdmb
 𫪒	rdme
 𱒽	rdmf
 𲗘	rdmf
@@ -84293,7 +84294,6 @@
 𠴵	rsmb
 𠼇	rsmb
 𪢙	rsmb
-𫪲	rsmb
 顎	rsmbc
 䪽	rsmbc
 颚	rsmbo
