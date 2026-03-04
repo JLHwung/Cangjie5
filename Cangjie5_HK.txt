@@ -86874,9 +86874,10 @@
 𰄧	shmnn
 𩬝	shmob
 𮫁	shmr
-𩮢	shmrg
+𩮢	shmrg	[T]
 𩯹	shmrr
 𩭺	shmrw
+𩮢	shmsg
 𩭐	shmso
 𬴧	shmt
 𩬾	shmtc
