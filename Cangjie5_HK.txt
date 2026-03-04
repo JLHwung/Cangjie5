@@ -33808,7 +33808,6 @@
 𤛏	hqypm
 𥮠	hqyr
 犒	hqyrb
-𢲤	hqyrb
 犉	hqyrd
 㹁	hqyrf
 𤚮	hqyrj
@@ -79795,6 +79794,7 @@
 搞	qyrb
 𢸛	qyrb
 𫾗	qyrb
+𢲤	qyrb
 𢸷	qyrc
 㨃	qyrd
 𡦬	qyrd
@@ -109770,7 +109770,6 @@
 𥷐	xhqwj
 𰠹	xhqwl
 𬕩	xhqyj
-𢲤	xhqyr
 𰠸	xhqyt
 𥭞	xhrb
 𬂫	xhrd
