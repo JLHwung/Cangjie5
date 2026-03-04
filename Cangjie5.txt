@@ -2839,6 +2839,7 @@
 胴	bbmr
 𠖄	bbmr
 𩩒	bbmso
+𩩄	bbmt	[G]
 𩪗	bbmto
 𢢸	bbmup
 𩨠	bbmvh
