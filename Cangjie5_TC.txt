@@ -101764,7 +101764,7 @@
 𡢓	vmrb
 𰬚	vmrbo
 织	vmrc
-𡟽	vmrg
+𡟽	vmrg	[J]
 𰠔	vmrhg	[u]
 𲛩	vmrj
 𤖞	vmrji
@@ -101789,6 +101789,7 @@
 𫱆	vmrw
 𮉩	vmryo
 𤕱	vmse
+𡟽	vmsg
 纫	vmshh
 纫	vmshi
 𱭒	vmshi	[u]
