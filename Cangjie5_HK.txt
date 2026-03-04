@@ -32775,7 +32775,6 @@
 𥰈	horg
 𫹟	horgl
 徎	horhg
-𤔑	horhr
 𪺎	horhu
 𬎢	horhu
 𦥳	horlr
@@ -32787,6 +32786,7 @@
 𪫎	horok
 𢛃	horp
 𭈃	horp	[u]
+𤔑	horr	[G]
 𫹪	horrk
 𬡁	horrn
 𱝵	horrr
