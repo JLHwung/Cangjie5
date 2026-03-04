@@ -24700,6 +24700,7 @@
 𧾠	gojce
 𧻇	gojd
 䞚	goje
+𧼭	gojfe	[GP]
 䟈	gojig
 䟌	gojig
 𧽢	gojii
