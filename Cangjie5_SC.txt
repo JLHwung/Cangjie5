@@ -97855,6 +97855,7 @@
 𡰮	us
 𡹶	usav
 𲞕	usca
+𫶤	usdd
 𪌨	usdoe
 𪌨	usdon
 𡷷	use
@@ -97923,7 +97924,6 @@
 𪩒	usmt
 𲝡	usmv
 𪩖	usnd
-𫶤	usnd
 𨟎	usnl
 𡵸	uso
 𱽀	usohy
@@ -118273,7 +118273,6 @@
 𭗑	xusmb
 𫶉	xusmg
 𡻪	xusmh
-𫶤	xusnd
 𡶆	xusr
 𠚆	xuss
 屺	xusu
