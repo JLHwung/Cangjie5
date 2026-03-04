@@ -6408,6 +6408,7 @@
 𰥦	buhoe
 𰦊	buhoe
 𥆜	buhog
+𥋍	buhog
 𥊤	buhoi
 矀	buhok
 覹	buhok
@@ -6952,7 +6953,6 @@
 睺	buonk
 𰥒	buoo
 睉	buoog
-𥋍	buoog
 𥉚	buooo
 𥄒	buop
 𬑆	buop
@@ -23493,6 +23493,7 @@
 𡐣	ghoe
 𡑉	ghoe
 𲙜	ghoe
+𡑊	ghog
 𡐙	ghoi
 𭐈	ghok
 垳	ghon
@@ -24880,7 +24881,6 @@
 𮚶	goof
 趡	goog
 𡌚	goog
-𡑊	goog
 𡑗	goog
 趭	googf
 趁	goohh
@@ -27394,6 +27394,7 @@
 䆇	hdhnf
 𳅥	hdhni
 𮂷	hdhnm
+𥢤	hdhog
 𥞧	hdhon
 𥡬	hdhoo
 秅	hdhp
@@ -27919,7 +27920,6 @@
 𥝖	hdon
 箂	hdoo
 𬓡	hdoo
-𥢤	hdoog
 𲵊	hdoog
 𮮐	hdop
 𥞀	hdopd
@@ -59425,6 +59425,7 @@
 𥐲	mrhni
 砜	mrhnk
 𥓳	mrhoe
+𥖌	mrhog
 𥒛	mrhoi
 𥕣	mrhoi
 𮀖	mrhon
@@ -60082,7 +60083,6 @@
 𱴞	mronk
 𰧦	mrooa
 䂳	mroog
-𥖌	mroog
 𮀟	mroos
 𱴓	mroot
 𥖴	mroou
@@ -73134,6 +73134,7 @@
 𦈤	ouhjs
 𲸺	ouhkb
 缿	ouhmr
+𦉖	ouhog
 𦉀	ouhws
 戗	oui
 𭀥	oui
@@ -73214,7 +73215,6 @@
 𲸼	ouoma
 䍅	ouoml
 侺	ouon
-𦉖	ouoog
 𮉴	ouoog
 𡴬	ouoou
 㒞	ouos
@@ -86943,6 +86943,7 @@
 雡	shog
 𲉧	shog
 𲌟	shog
+𡳑	shog
 𲌛	shohg
 𩬖	shohh
 𫬯	shohp
@@ -88603,7 +88604,6 @@
 𫧏	soo
 𡲜	soob
 𠥔	soog
-𡳑	soog
 䭆	sooiv
 𡱲	soon
 𡲵	soon
@@ -105683,6 +105683,7 @@
 𲁒	xbuhm
 𭂷	xbuhn
 𰦊	xbuho
+𥋍	xbuho
 𣰧	xbuhq
 䁶	xbuhs
 𥄼	xbuhv
@@ -105737,7 +105738,6 @@
 𫾴	xbuok
 𥊕	xbuol
 𥌉	xbuom
-𥋍	xbuoo
 𬑆	xbuop
 𭾮	xbuoq
 𦢥	xbuos
@@ -112782,7 +112782,6 @@
 𥐭	xmroj
 䂠	xmrok
 䂡	xmrom
-𥖌	xmroo
 𱳯	xmrop
 𰰉	xmror
 䂗	xmrp
@@ -116582,7 +116581,6 @@
 𭃅	xsoln
 𡶳	xsomu
 𫧏	xsoo
-𡳑	xsoog
 𡲵	xsoon
 𦖏	xsooo
 𢛶	xsop
