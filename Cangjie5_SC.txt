@@ -86294,7 +86294,6 @@
 驊	sftmj
 𮪑	sftmo
 𩦦	sftmt
-𩧝	sftmv
 𱄓	sftn
 𩦟	sftnk
 𩦘	sftog
@@ -86400,6 +86399,7 @@
 𩢭	sfymp
 𱄮	sfymt
 𪚀	sfymu
+𩧝	sfymv
 𩦆	sfynd
 䯁	sfynq
 𩥽	sfyod
