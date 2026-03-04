@@ -32664,6 +32664,7 @@
 𩀒	hoog
 𩀰	hoog
 𳈺	hoog
+𡍮	hoog	[O]
 㸕	hooge
 㣥	hoogi
 彾	hooii
@@ -71203,7 +71204,6 @@
 𠎥	oooa
 𰯥	ooobo
 侳	ooog
-𡍮	ooog
 傘	oooj
 𦉈	oooju
 斂	oook
@@ -114102,7 +114102,6 @@
 𠓟	xoon
 㰸	xoono
 㐺	xooo
-𡍮	xooog
 㪘	xoook
 𠙠	xooon
 𠈌	xoooo
