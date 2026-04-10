@@ -28633,6 +28633,7 @@
 𳑉	heykq
 𪐔	heylc
 螽	heyli
+𮗺	heymr
 㐑	heyn
 黏	heyr
 𥮒	heyr
@@ -34184,7 +34185,6 @@
 𫫹	hrykh
 𫇖	hrykr
 𬜇	hrymr
-𮗺	hrymr
 𪙬	hrymu
 𰯽	hrymy
 𥭽	hryo
@@ -109816,7 +109816,6 @@
 𱷵	xhrvl
 𢼤	xhrye
 𪯬	xhryj
-𮗺	xhrym
 𬜈	xhryo
 𨐙	xhryt
 𮃵	xhryu
