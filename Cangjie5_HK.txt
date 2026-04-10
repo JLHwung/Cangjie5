@@ -43696,7 +43696,6 @@
 𡌴	jmg
 㝙	jmgc
 𭔟	jmgc
-𡨒	jmge
 𫳰	jmge
 𡫚	jmgf
 𤎟	jmgf
@@ -43707,6 +43706,7 @@
 宝	jmgi
 𡫈	jmgk
 𫴄	jmgk
+𡨒	jmgk
 𭓴	jmgn
 𫴂	jmgo
 𪧱	jmgr
