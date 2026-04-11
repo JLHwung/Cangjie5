@@ -81207,6 +81207,7 @@
 𠾯	rjcd
 𡅊	rjcd
 𱕀	rjcd
+𫫳	rjcd
 𠷃	rjce
 㗧	rjcg
 𠾮	rjch
@@ -81226,7 +81227,6 @@
 𱔫	rjcr
 鿽	rjcs
 𠴛	rjcs
-𫫳	rjcs
 𡀙	rjcu
 𫫍	rjcu
 味	rjd
