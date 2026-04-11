@@ -95960,6 +95960,7 @@
 蒁	tyic
 蒁	tyid
 𮑒	tyid
+𦯧	tyid
 𦳺	tyie
 𧀹	tyif
 𱾸	tyig
@@ -95967,7 +95968,6 @@
 𦳺	tyik
 𮏌	tyik
 茺	tyiu
-𦯧	tyiu
 䕂	tyiv
 𰰩	tyj
 𧆐	tyjc
@@ -117833,7 +117833,6 @@
 𦽟	xtyib
 𮑒	xtyid
 𮏌	xtyik
-𦯧	xtyiu
 荓	xtyjj
 荙	xtyk
 𧆍	xtykc
