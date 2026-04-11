@@ -88198,6 +88198,7 @@
 覧	smbuu
 鍳	smc
 𠔐	smc	[O]
+𦑕	smc
 翂	smcsh
 𦒗	smcwa
 𣔿	smd
@@ -89320,7 +89321,6 @@
 𢽶	sxok	[u]
 𢽣	sxye	[u]
 𱛀	syapv
-𦑕	syc
 𰍲	syc
 𦐔	syd
 𦏽	sydi
