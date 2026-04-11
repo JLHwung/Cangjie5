@@ -97858,6 +97858,7 @@
 𡰮	us
 𡹶	usav
 𲞕	usca
+𡾓	usca
 𫶤	usdd
 𪌨	usdoe
 𪌨	usdon
@@ -97865,7 +97866,6 @@
 𡽨	useo
 𡼧	useq
 𡽈	useu
-𡾓	usfa
 𰎰	usfb
 嶎	usfi
 屶	ush
