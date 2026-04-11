@@ -2860,7 +2860,7 @@
 𫘳	bbnkq
 𩪷	bbnlb
 𩪦	bbnlm
-𲌏	bbnme	[u]
+𲌏	bbnme
 𩩽	bbnmk
 𩨾	bbnmu
 歄	bbno
@@ -2993,7 +2993,7 @@
 䯚	bbvib
 𩪽	bbvil
 膎	bbvk
-𲌏	bbvne
+𲌏	bbvne	[u]
 𩪇	bbvvc
 𩪑	bbvvd
 𩩀	bbvvu
