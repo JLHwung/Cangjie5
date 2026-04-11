@@ -84178,6 +84178,7 @@
 覨	rsbuu
 𠯔	rsc
 𠯕	rsc
+𡃆	rsca
 𠿍	rsce
 𠬱	rse
 𠰎	rse
@@ -84196,7 +84197,6 @@
 𤏩	rsf
 𬊫	rsf
 𮳯	rsf
-𡃆	rsfa
 𡆌	rsfb
 𪡨	rsfd
 𲘀	rsfd
