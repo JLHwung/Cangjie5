@@ -127917,7 +127917,7 @@
 𧫎	yrmop
 諮	yrmor
 𧨊	yrmos
-𧫺	yrmot
+𧫺	yrmot	[u]
 𧨵	yrmou
 𬢴	yrmov
 𧦯	yrmph
