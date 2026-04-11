@@ -6247,7 +6247,6 @@
 䁊	bueiu
 𥆀	buem
 𥆚	buemg
-𥋕	bueot
 𥉪	bueoy
 𱲮	bueq
 𥈰	buetc
@@ -6520,6 +6519,7 @@
 𪿅	buiof
 䀵	buiok
 𥌾	buiop
+𥋕	buiot
 𥌜	buipf
 𥅞	buipm
 𥋨	buipp
