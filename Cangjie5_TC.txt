@@ -22149,7 +22149,7 @@
 𪕗	fuhxv
 𢨄	fui
 𰏵	fui
-𠓌	fuicc
+𠓌	fuicc	[u]
 𠒥	fuid
 𠓌	fuihc	[u]
 𭀨	fuii
