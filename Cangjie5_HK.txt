@@ -9183,7 +9183,6 @@
 𥄘	cnbu
 𨪭	cncj
 釨	cnd
-𨥂	cnd
 𨨃	cndm
 錳	cndt
 𬫡	cnem
@@ -9245,6 +9244,7 @@
 𨮌	cnnc
 𨨮	cnnf
 𨚂	cnnl
+𨥂	cnnm
 𣢲	cnno
 𳆌	cnno
 欽	cno
@@ -106054,7 +106054,6 @@
 𰽒	xcnbe
 𰽒	xcnbk	[u]
 𰼰	xcnbq	[u]
-𨥂	xcnd
 𰼬	xcnem
 𠬬	xcnhe
 𨥺	xcni
