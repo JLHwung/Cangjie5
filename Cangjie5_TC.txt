@@ -83213,7 +83213,6 @@
 吇	rnd
 𠯂	rnd
 𰈝	rndc
-𠲚	rndd
 𱓨	rndd
 𠹀	rndf
 𫪑	rndo
@@ -83305,6 +83304,7 @@
 𠱲	rnmm
 𠺁	rnmm
 𭌡	rnmm
+𠲚	rnmm
 喼	rnmp
 𧰑	rnmrt
 𠱓	rnmu
@@ -115840,7 +115840,6 @@
 𠿇	xrnbq
 𲇦	xrnc	[u]
 𠯂	xrnd
-𱓨	xrndd
 𫫂	xrndo
 𲘈	xrndt
 𠱁	xrne
