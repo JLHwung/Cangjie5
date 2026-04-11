@@ -85713,7 +85713,7 @@
 騷	sfeii
 騒	sfeli
 𱄜	sfeng
-𬳰	sfeot
+𬳰	sfeot	[u]
 㷦	sff
 𫘉	sff
 𭵢	sff
@@ -86032,7 +86032,7 @@
 䮋	sfmnn
 𮩺	sfmob
 𩥝	sfmop
-𬳰	sfmot
+𬳰	sfmot	[u]
 𩣄	sfmpp
 䮥	sfmrb
 𩤬	sfmrb
