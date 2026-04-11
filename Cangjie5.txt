@@ -3373,7 +3373,7 @@
 𪏍	bcnc
 贍	bcncr
 𧴯	bcnd
-𪞐	bcnd
+𪞐	bcnd	[G]
 𧵉	bcnf	[G]
 䏲	bcnh
 𧷾	bcnhb
@@ -105258,7 +105258,7 @@
 𭨯	xbcms
 𮌏	xbcn
 𲒊	xbcna
-𪞐	xbcnd
+𪞐	xbcnd	[G]
 郥	xbcnl
 𰷜	xbcnm
 𮙾	xbcof
