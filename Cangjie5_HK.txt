@@ -61371,7 +61371,6 @@
 𨢆	mweed
 醊	mweee
 𩈽	mweev
-𨣕	mweot
 𰼅	mweq
 𳅛	mwese
 䙳	mwf
@@ -61541,6 +61540,7 @@
 𨢺	mwinb
 𨠕	mwine
 𩈗	mwine
+𨣕	mwiot
 䣧	mwip
 𨣿	mwipd
 𬪨	mwiq
