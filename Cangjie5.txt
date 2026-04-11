@@ -101718,6 +101718,7 @@
 𫄟	vmopd
 𡟔	vmor
 𮉣	vmos
+𬌇	vmosm
 𰬿	vmoto
 𪦌	vmov
 𫄩	vmowy
@@ -101740,7 +101741,6 @@
 纰	vmpp
 𰬎	vmppj
 𰬆	vmpr
-𬌇	vmpsm
 绁	vmpt
 牃	vmptd
 𫄬	vmptd
