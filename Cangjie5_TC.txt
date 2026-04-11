@@ -73333,7 +73333,6 @@
 㒩	ovoi
 𩛒	ovoiv
 𢾄	ovok
-㤀	ovp
 㥋	ovp
 𢘂	ovp
 𢠚	ovp
@@ -102167,6 +102166,7 @@
 𡛐	vop
 𭝆	vop
 𱙇	vop
+㤀	vop
 𫰡	vopj
 𱊘	vopym
 姩	voq
