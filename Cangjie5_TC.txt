@@ -98398,6 +98398,7 @@
 𡹧	uyfe
 㠇	uyfu
 𭖒	uyg
+𭗤	uygv
 𫶡	uyhc
 嵃	uyhh
 𱜉	uyhj
@@ -129655,7 +129656,6 @@
 𱌻	yugit
 𧈙	yugni
 𪗾	yugr
-𭗤	yugv
 𧆽	yuha
 鷲	yuhaf
 𪂬	yuhaf
