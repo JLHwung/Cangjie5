@@ -25594,7 +25594,7 @@
 𢤥	gtmop
 𡄻	gtmor
 𡕆	gtmor
-𧰕	gtmot
+𧰕	gtmot	[J]
 𧰝	gtmot
 𡤜	gtmov
 𫝔	gtmu
