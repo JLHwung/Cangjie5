@@ -83472,7 +83472,6 @@
 𠼏	rojk
 𭈓	rojk
 𱒴	rojr
-𫪢	rojv
 呚	rok
 𠱈	rok
 𡘈	rok
@@ -83532,6 +83531,7 @@
 哬	romr
 𲕋	romu
 喩	romv
+𫪢	romv
 吃	ron
 𩒻	ronc
 𠺪	rond
