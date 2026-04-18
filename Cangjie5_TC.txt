@@ -127966,6 +127966,7 @@
 㐔	yrn
 𧬛	yrnao
 𧨕	yrnau
+𧧘	yrnau
 讂	yrnbe
 𧭦	yrnbe
 𧨖	yrnbg
@@ -128295,7 +128296,7 @@
 詔	yrshr
 𫫌	yrshr
 䜛	yrshu
-𧧘	yrshu
+𧧘	yrshu	[T]
 𮘕	yrshu
 諂	yrshx	[u]
 𧫄	yrsih
