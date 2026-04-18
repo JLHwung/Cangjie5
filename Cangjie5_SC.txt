@@ -19214,10 +19214,10 @@
 𭵒	fatc
 爆	fate
 爗	fatj
+𤒃	fatj
 𤑻	fatm
 𪹼	fatp
 𤐲	fatq
-𤒃	fatq
 𪹷	fatv
 𤆵	fau
 𤉆	fau
@@ -107843,7 +107843,7 @@
 𥮬	xfaph
 𫴾	xfapp
 𬊭	xfatc
-𤒃	xfatq
+𤒃	xfatj
 𤉆	xfau
 龸	xfb
 𫆙	xfbb
