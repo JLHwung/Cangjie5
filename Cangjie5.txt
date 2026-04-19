@@ -90602,7 +90602,7 @@
 𧀡	teof
 𦴷	teog
 𦹏	teog
-𬝴	teog
+𬝴	teog	[G]
 虃	teom
 蕍	teon
 𮏠	teop
@@ -98418,7 +98418,7 @@
 𡵻	uyhn
 𭖮	uyhv
 㞳	uyj
-𡸫	uyjj	[OJ]
+𡸫	uyjj
 𲝾	uyjn	[u]
 㓙	uyk
 㞵	uyk

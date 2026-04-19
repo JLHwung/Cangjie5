@@ -90602,7 +90602,7 @@
 𧀡	teof
 𦴷	teog
 𦹏	teog
-𬝴	teog
+𬝴	teog	[G]
 虃	teom
 蕍	teon
 𮏠	teop
@@ -95996,6 +95996,7 @@
 𧆍	tykc
 𧂏	tykf
 𬞅	tykg
+𬝴	tykg
 𫈱	tykh
 𧆃	tykj
 荠	tykl
