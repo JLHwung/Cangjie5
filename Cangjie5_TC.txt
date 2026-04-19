@@ -98061,6 +98061,7 @@
 巏	utrg
 𭗳	utsj
 𦒀	utsmm
+𡸫	utt
 𡻉	uttb
 𲝾	uttn
 𰎸	uttr
@@ -98417,7 +98418,7 @@
 𡵻	uyhn
 𭖮	uyhv
 㞳	uyj
-𡸫	uyjj
+𡸫	uyjj	[OJ]
 𲝾	uyjn	[u]
 㓙	uyk
 㞵	uyk
