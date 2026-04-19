@@ -27095,6 +27095,7 @@
 䅛	hdaa
 𫀹	hdab
 𥣐	hdabj
+𥠺	hdabt	[G]
 𮃜	hdafu
 𫀴	hdag
 𩡌	hdaha
