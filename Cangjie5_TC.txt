@@ -98866,7 +98866,7 @@
 𦃼	vfbac
 嫦	vfbb
 綳	vfbb
-𥾞	vfbb
+𥾞	vfbb	[V]
 縎	vfbbb
 𩪾	vfbbb
 綬	vfbbe
@@ -99999,6 +99999,7 @@
 𥾠	vfshc
 𦀩	vfshe
 紉	vfshh
+𥾞	vfshh
 紉	vfshi
 𥿷	vfshi
 綛	vfshp
