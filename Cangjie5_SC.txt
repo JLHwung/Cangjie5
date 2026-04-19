@@ -28507,6 +28507,7 @@
 䵗	hemrw
 𰋎	hemso
 𪏳	hemvm
+𥶅	hemw
 𡕕	hend
 𪏲	heng
 𰩹	henh
@@ -34032,7 +34033,6 @@
 𮍴	hrms
 𫬎	hrmub	[u]
 𤭇	hrmvn
-𥶅	hrmw
 𰰇	hrmwg
 𥰊	hrmy
 𰰃	hrnau
