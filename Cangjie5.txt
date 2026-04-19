@@ -28561,10 +28561,10 @@
 𲶦	heqa
 𮆆	heqb
 夆	heqj
-𡕗	heqj
 㶻	heqjf
 𧋴	heqji
 𧒒	heqji
+𡕗	heqk
 𪐃	heqkq
 𥳻	heqy
 各	her
@@ -109098,7 +109098,6 @@
 𪏺	xheph
 夅	xheq
 𲶦	xheqa
-𡕗	xheqj
 𠶳	xher
 𳑈	xhesh
 𡢕	xhev
