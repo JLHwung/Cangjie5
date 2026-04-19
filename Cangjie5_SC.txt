@@ -14610,6 +14610,7 @@
 𣝋	dywe
 𰗲	dywe
 檩	dywf
+𣝋	dywf	[GJ]
 樐	dywi
 𣡣	dywl
 檀	dywm
