@@ -88265,6 +88265,7 @@
 屋	smig
 𭅙	smig
 䎉	smihi
+䎉	smihm	[GT]
 𮊽	smihs
 䎒	smii
 䎍	smijb
