@@ -79423,8 +79423,9 @@
 𢭞	quon
 㩗	quos
 𢹂	quos
-𠓆	quqju
-𠓆	quqmu
+𠓆	quqju	[T]
+𠓆	quqku	[J]
+𠓆	quqmu	[G]
 𢶮	qusf
 𫼥	qusu
 拙	quu
