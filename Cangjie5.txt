@@ -30758,7 +30758,6 @@
 齄	hldbm	[O]
 𤿪	hldhe
 𪖞	hldhe
-𡬯	hldi
 𥮤	hle
 𤎇	hlf
 𣃉	hlfbw
@@ -35842,6 +35841,7 @@
 𥀈	hxdhe
 𤿷	hxdhe	[u]
 𦥘	hxdi
+𡬯	hxdi	[O]
 𦥦	hxdj
 𪌲	hxdoe
 𪌲	hxdon
@@ -110050,6 +110050,7 @@
 𦥷	xhxbc
 𥂞	xhxbt
 𤿷	xhxdh	[u]
+𡬯	xhxdi
 𠭭	xhxe
 𬛸	xhxg	[u]
 䳎	xhxha
