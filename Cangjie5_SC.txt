@@ -33811,6 +33811,7 @@
 𤛏	hqypm
 𥮠	hqyr
 犒	hqyrb
+𢲤	hqyrb	[U]
 犉	hqyrd
 㹁	hqyrf
 𤚮	hqyrj
