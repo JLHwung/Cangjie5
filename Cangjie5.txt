@@ -24385,7 +24385,7 @@
 𲘳	gni
 埇	gnib
 𡒕	gnic
-𫮬	gnii
+𫮬	gnii	[u]
 𡋓	gnil
 垑	gnin
 㘧	gnin
@@ -24433,6 +24433,7 @@
 𡔿	gnqkk
 𡓦	gnri
 𪤳	gnri
+𫮬	gnri
 垜	gnsd
 埩	gnsd
 𫭧	gnsd
