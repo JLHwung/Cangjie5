@@ -22847,6 +22847,7 @@
 㙂	gcru
 鼀	gcrxu
 𧹤	gcryo
+𧹧	gcseu
 坋	gcsh
 𠠔	gcsh
 𮚱	gcshc
@@ -22854,7 +22855,6 @@
 𠠠	gcshi
 䞔	gcshu
 赧	gcsle
-𧹧	gcsmm
 𡎛	gcst
 𢌻	gct
 𡓠	gcta
