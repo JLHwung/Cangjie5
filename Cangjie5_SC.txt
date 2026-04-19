@@ -4758,9 +4758,9 @@
 𮊖	bkref
 𦍅	bkrmc
 𲺡	bkrob
-𦊞	bkrup
 𦋭	bkrvc
 𮊄	bkrvp
+𦊞	bkrvp
 𪓷	bkrxu
 肋	bks
 𮌯	bksb
