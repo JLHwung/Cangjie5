@@ -52201,6 +52201,7 @@
 𮖹	lrij
 𧟀	lrji
 𮖹	lrji
+𧚴	lrli	[G]
 裎	lrmg
 𮖅	lrmk	[u]
 𳀱	lrms
