@@ -31668,6 +31668,7 @@
 𨡐	hnmcw
 箓	hnme
 𩗢	hnme
+𥭼	hnme
 𩗿	hnmeb
 𮨧	hnmg
 飋	hnmgh
@@ -34355,7 +34356,7 @@
 𢩛	hsmbc
 𱂔	hsmbc	[u]
 𬱲	hsmbo
-𥭼	hsme
+𥭼	hsme	[T]
 𥯐	hsme
 𥲝	hsme
 筐	hsmg
