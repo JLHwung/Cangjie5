@@ -25122,7 +25122,7 @@
 𡉾	gp
 𲎱	gp
 𡋕	gpa
-𭎡	gpa
+𭎡	gpa	[u]
 𰉭	gpa
 𡎾	gpbb
 塡	gpbc
@@ -25934,6 +25934,7 @@
 𭏸	gylo
 𡒌	gylr
 圵	gym
+𭎡	gyma
 𪣩	gymb
 𡒾	gymi
 𡍍	gymm
