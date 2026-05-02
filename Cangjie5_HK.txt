@@ -81109,6 +81109,7 @@
 𠻞	rile
 㖄	rill
 𭇫	rill
+𭇞	riln
 𱓒	rilo
 𠲁	rilp
 𠹔	rilr
@@ -81340,7 +81341,6 @@
 嗜	rjpa
 𪢗	rjpi
 嚀	rjpn
-𭇞	rjpn
 𰈻	rjpru
 𰈻	rjpsu	[u]
 嘧	rjpu
@@ -115643,7 +115643,6 @@
 𪡣	xrjmw
 𨞎	xrjnl
 𰈚	xrjoc
-𭇞	xrjpn
 哓	xrjpu
 𡁒	xrjre
 𠹒	xrjrr
