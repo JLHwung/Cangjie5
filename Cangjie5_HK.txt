@@ -6815,6 +6815,7 @@
 眐	bumym
 㐠	bun
 𦙏	bun
+𥋥	bunai
 睌	bunau
 𥅺	bunau
 矎	bunbe
@@ -6883,7 +6884,6 @@
 𱳖	bunsr
 𥈱	bunst
 𱳑	buntr
-𥋥	bunui
 𥌧	bunwa
 𥌔	bunwc
 䁩	bunwf
