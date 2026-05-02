@@ -61530,6 +61530,7 @@
 𩈼	mwiih
 𨣔	mwiip
 𨠤	mwij
+𬪨	mwij
 酺	mwijb
 䩉	mwijb
 𭻧	mwijb
@@ -61552,7 +61553,7 @@
 𨣕	mwiot
 䣧	mwip
 𨣿	mwipd
-𬪨	mwiq
+𬪨	mwiq	[u]
 𰼊	mwirm
 𨣝	mwirp
 䣲	mwit
