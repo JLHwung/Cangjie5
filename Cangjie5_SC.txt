@@ -87294,8 +87294,9 @@
 镺	sihk
 𨲭	sihkb
 𳇵	sihke
+𨱩	sihke
 𨲁	sihkf
-𨱩	sihkk
+𨱩	sihkk	[T]
 𬮄	sihkl
 𫔗	sihkp	[u]
 斸	sihml
