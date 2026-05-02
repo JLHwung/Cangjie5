@@ -66076,6 +66076,7 @@
 𬻈	nmnlm
 𭛇	nmnmb
 𫘧	nmnme
+𮬠	nmnme
 鶸	nmnmf
 𢾼	nmnmk
 骉	nmnmm
@@ -66203,7 +66204,6 @@
 𱅩	nmsma
 𫚡	nmsmb
 骎	nmsme
-𮬠	nmsme
 𬳻	nmsmg
 鲟	nmsmi
 骣	nmsnd
