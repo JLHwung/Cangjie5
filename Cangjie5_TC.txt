@@ -66046,6 +66046,7 @@
 𭛌	nmmwm
 𱅜	nmmwv
 𳎞	nmmwv
+𩾅	nmnai
 𬶲	nmnao
 𩾃	nmnau
 𢑙	nmne
@@ -66091,7 +66092,6 @@
 𲌋	nmnot
 𫚊	nmnsh
 驺	nmnsm
-𩾅	nmnui
 𱄿	nmnvm
 𬶳	nmnwa
 𩷷	nmnwf
