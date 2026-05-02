@@ -6904,6 +6904,7 @@
 矍	buoge
 𬑠	buoge
 瞧	buogf
+𭾼	buogr
 𪾷	buogs
 𥆉	buohe
 眕	buohh
@@ -6945,7 +6946,7 @@
 瞼	buomo
 𥇥	buomo
 䀫	buomr
-𭾼	buomr
+𭾼	buomr	[u]
 𬑌	buoms
 𥋎	buomu
 𥇸	buomu
